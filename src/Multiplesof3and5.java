@@ -1,5 +1,10 @@
 import java.util.ArrayList;
 
+/**
+ * @author Prabhat Shankar
+ * prabhat.shnkr@gmail.com
+ * 
+ */
 public class Multiplesof3and5 {
 	public ArrayList<Integer> list ;
 	public Multiplesof3and5(ArrayList<Integer> list) {
